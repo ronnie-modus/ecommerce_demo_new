@@ -1,1 +1,0 @@
-content for sephora_demo.model.lkml
