@@ -1,0 +1,1 @@
+content for view_2.lkml
